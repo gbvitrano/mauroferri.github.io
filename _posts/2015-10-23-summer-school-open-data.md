@@ -11,18 +11,25 @@ Una settimana densa di informazioni e scoperte come questa di [Jekyll](http://je
 
 Pubblico la cronologia dei siti e dei servizi web che ho visitato in questi tre giorni e che ricostruisce abbastanza fedelmente le cose che sono state trattate.
 
-
-
 VISUALIZZAZIONE DEI DATI
 [D3.js - Data-Driven Documents](http://d3js.org/)
+
 [Data | Information is Beautiful](http://www.informationisbeautiful.net/data/)
+
 [David McCandless » Design Work](http://www.davidmccandless.com/design_work/)
+
 [Lab and HCL Color Spaces](http://bl.ocks.org/mbostock/3014589)
+
 [Gallery mbostockd3 Wiki](https://github.com/mbostock/d3/wiki/Gallery)
+
 [Mountains Out of Molehills | Information is Beautiful](http://www.informationisbeautiful.net/visualizations//mountains-out-of-molehills/)
+
 [Open Knowledge Italia - Un mondo dove la conoscenza crea il potere per mol...](http://it.okfn.org/about/)
+
 [http:www.gapminder.org](http://www.gapminder.org/)
+
 [https:it.wordpress.orgpluginslogo-sliderinstallation](https://it.wordpress.org/plugins/logo-slider/installation/)
+
 [mbostockd3 · GitHub](https://github.com/mbostock/d3)
 
 
