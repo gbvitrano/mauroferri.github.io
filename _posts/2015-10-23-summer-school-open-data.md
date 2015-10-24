@@ -3,11 +3,11 @@ layout: post
 title: Summer school open data
 ---
 
-Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa Monica Palmirani.
+Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa [Monica Palmirani](https://twitter.com/MonicaPalmirani).
 
 Una settimana di lezioni, presentazioni e discorsi sugli open data, tipologie, metodologie e strategie per la loro liberazione e diffusione.
 
-Una settimana densa di informazioni e scoperte come questa di [Jekyll](http://jekyllrb.com) (grazie a Luca Corsato) un sistema per creare velocissimi ed economicissimi siti cui non serve un database e nemmeno un hosting visto che possono essere ospitati e sincronizzati direttamente da Github.
+Una settimana densa di informazioni e scoperte come questa di [Jekyll](http://jekyllrb.com) (grazie a [Luca Corsato](https://twitter.com/lucacorsato) un sistema per creare velocissimi ed economicissimi siti cui non serve un database e nemmeno un hosting visto che possono essere ospitati e sincronizzati direttamente da Github.
 
 Pubblico la cronologia dei siti e dei servizi web che ho visitato in questi tre giorni e che ricostruisce abbastanza fedelmente le cose che sono state trattate.
 
