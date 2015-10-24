@@ -27,6 +27,8 @@ VISUALIZZAZIONE DEI DATI
 
 [Open Knowledge Italia - Un mondo dove la conoscenza crea il potere per mol...](http://it.okfn.org/about/)
 
+[Sgvizler development site](http://dev.data2000.no/sgvizler/)
+
 [http:www.gapminder.org](http://www.gapminder.org/)
 
 [https:it.wordpress.orgpluginslogo-sliderinstallation](https://it.wordpress.org/plugins/logo-slider/installation/)
@@ -35,6 +37,7 @@ VISUALIZZAZIONE DEI DATI
 
 
 LINKED OPEN DATA
+
 [AkomaNtoso Visualizer](http://sinatra.cirsfid.unibo.it/portale-anonimizzazione/)
 
 [Alexandre Dumas — LodView](http://lodview.it/lodview/?IRI=http%3A%2F%2Fdata.bnf.fr%2Fark%3A%2F12148%2Fcb119010630%23foaf%3APerson&amp;sparql=http%3A%2F%2Fdata.bnf.fr%2Fsparql&amp;prefix=http%3A%2F%2Fdata.bnf.fr%2F)
@@ -53,91 +56,85 @@ LINKED OPEN DATA
 
 [DATI.SAN SPARQL Query Editor](http://dati.san.beniculturali.it/sparql)
 
-(http://www.archivi.beniculturali.it/index.php/strumenti/sussidi/item/559-ontologie-archivistiche)[Direzione generale per gli archivi - Ontologie archivistiche | analisi e descrizione]
+[Direzione generale per gli archivi - Ontologie archivistiche | analisi e descrizione](http://www.archivi.beniculturali.it/index.php/strumenti/sussidi/item/559-ontologie-archivistiche)
 
-(http://dati.senato.it/23)Endpoint-SPARQL - dati.senato.it]
+[Endpoint-SPARQL - dati.senato.it](http://dati.senato.it/23)
 
-(https://it.wikipedia.org/wiki/Grafo)Grafo – Wikipedia]
+[Grafo – Wikipedia](https://it.wikipedia.org/wiki/Grafo)
 
-(http://storia.camera.it/deputati#nav)Deputati Camera dei deputati Portale storico](http://etna.istc.cnr.it/food-sparql/)[FOOD - user-friendly SPARQL interface]
+[Deputati Camera dei deputati Portale storico](http://storia.camera.it/deputati#nav)
 
-(http://etna.istc.cnr.it/food/)[Progetto FOOD]
+[FOOD - user-friendly SPARQL interface](http://etna.istc.cnr.it/food-sparql/)
 
-(http://dati.senato.it/)[Home - dati.senato.it]
+[Progetto FOOD](http://etna.istc.cnr.it/food/)
 
-(http://www.linkeddatatools.com/semantic-web-basics)Introducing Linked Data And The Semantic Web]
+[Home - dati.senato.it](http://dati.senato.it/)
 
-(http://ibc.regione.emilia-romagna.it/homepage)Homepage — E-R Istituto per i beni artistici culturali e naturali]
+[Introducing Linked Data And The Semantic Web](http://www.linkeddatatools.com/semantic-web-basics)
 
-(https://docs.google.com/spreadsheets/d/1A6ozupy4awmOBHbCQmemKjWOvo7yKgq5bWKuJ6T68pI/edit#gid=1)KIB - Common MythConceptions (public) - Fogli Google]
+[Homepage — E-R Istituto per i beni artistici culturali e naturali](http://ibc.regione.emilia-romagna.it/homepage)
 
-(https://data.gov.uk/linked-data)Linked Data | data.gov.uk]
+[KIB - Common MythConceptions (public) - Fogli Google](https://docs.google.com/spreadsheets/d/1A6ozupy4awmOBHbCQmemKjWOvo7yKgq5bWKuJ6T68pI/edit#gid=1)
 
-(http://linkeddata.org/)[Linked Data | Linked Data - Connect Distributed Data across the Web]
+[Linked Data | data.gov.uk](https://data.gov.uk/linked-data)
 
-(http://dati.camera.it/it/linked-data/)[Linked-Data - Camera dei deputati - dati.camera]
+[Linked Data | Linked Data - Connect Distributed Data across the Web](http://linkeddata.org/)
 
-(http://lodlive.it/?http://datos.bne.es/persona/XX1147441.html)LodLive - browsing the Web of Data]
+[Linked-Data - Camera dei deputati - dati.camera](http://dati.camera.it/it/linked-data/)
 
-(https://www.mongodb.com/cloud/?_ga=1.159195770.1520446389.1445345977)MongoDB Management Made Easy | MongoDB]
+[LodLive - browsing the Web of Data](http://lodlive.it/?http://datos.bne.es/persona/XX1147441.html)
 
-(https://www.mongodb.org/)[MongoDB for GIANT Ideas | MongoDB]
+[MongoDB Management Made Easy | MongoDB](https://www.mongodb.com/cloud/?_ga=1.159195770.1520446389.1445345977)
 
-(http://www.essepuntato.it/lode/owlapi/http://etna.istc.cnr.it/food/sources/disciplinare-vino.owl)Ontologia dei Disciplinari sul vino]
+[MongoDB for GIANT Ideas | MongoDB](https://www.mongodb.org/)
 
-(http://www.aphex.it/index.php?Temi=557D03012202740321010276077327)Ontologia dei beni culturali]
+[Ontologia dei Disciplinari sul vino](http://www.essepuntato.it/lode/owlapi/http://etna.istc.cnr.it/food/sources/disciplinare-vino.owl)
 
-(http://www.archivi.beniculturali.it/ontologie/SIUSA.html)Ontologie archivistiche: descrizione ontologica del sistema SIUSA]
+[Ontologia dei beni culturali](http://www.aphex.it/index.php?Temi=557D03012202740321010276077327)
 
-(https://www.drupal.org/project/opendata)Open Data | Drupal.org]
+[Ontologie archivistiche: descrizione ontologica del sistema SIUSA](http://www.archivi.beniculturali.it/ontologie/SIUSA.html)
 
-(http://sinatra.cirsfid.unibo.it/site-crawl/)[Ravenna Site Crawler]
+[S.'s home](http://www.essepuntato.it/)
 
-(http://www.essepuntato.it/)[S.'s home]
+[SIBIB - Biblioteche pubbliche dell'Emilia-Romagna: Risultati della ricerca](http://online.ibc.regione.emilia-romagna.it/h3/h3.exe/abiblioteche/t?CODICEISIL=IT-RN0013)
 
-(http://online.ibc.regione.emilia-romagna.it/h3/h3.exe/abiblioteche/t?CODICEISIL=IT-RN0013)SIBIB - Biblioteche pubbliche dell'Emilia-Romagna: Risultati della ricerca]
+[Samira - Catalogo del patrimonio dell'Emilia-Romagna](http://bbcc.ibc.regione.emilia-romagna.it/samira/v2fe/)
 
-(http://sinatra.cirsfid.unibo.it/svn_access/login.php)SVN Access Manager - sinatra.cirsfid.unibo.it]
+[SparqlEndpoints - W3C Wiki](http://www.w3.org/wiki/SparqlEndpoints)
 
-(http://bbcc.ibc.regione.emilia-romagna.it/samira/v2fe/)[Samira - Catalogo del patrimonio dell'Emilia-Romagna]
+[Virtuoso SPARQL Query Editor](http://lod.kb.nl/sparql)
 
-(http://dev.data2000.no/sgvizler/)[Sgvizler development site]
+[Virtuoso SPARQL Query Editor](http://dati.camera.it/sparql)
 
-(http://www.w3.org/wiki/SparqlEndpoints)SparqlEndpoints - W3C Wiki]
+[Welcome - the Datahub](http://datahub.io/)
 
-(https://guides.github.com/introduction/flow/)[Understanding the GitHub Flow · GitHub Guides]
+[YASGUI](http://yasgui.org/)
 
-(http://lod.kb.nl/sparql)Virtuoso SPARQL Query Editor]
+[The Linking Open Data cloud diagram](http://lod-cloud.net/)
 
-(http://dati.camera.it/sparql)Virtuoso SPARQL Query Editor]
+[Tutorial 1: Introducing Graph Data](http://www.linkeddatatools.com/introducing-rdf)
 
-(http://datahub.io/)[Welcome - the Datahub]
+[Tutorial 4: Introducing RDFS &amp; OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)
 
-(http://yasgui.org/)[YASGUI]
+[http:it.dbpedia.org](http://it.dbpedia.org/)
 
-(http://lod-cloud.net/)[The Linking Open Data cloud diagram]
+[dati.culturaitalia.it](http://dati.culturaitalia.it/sparql/browse?default-graph-uri=&amp;query=select+distinct+%3FConcept+where+%7B%3Fowl+sameas+%7D+LIMIT+100&amp;exampleQueries=&amp;should-sponge=&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on)
 
-(http://www.linkeddatatools.com/introducing-rdf)Tutorial 1: Introducing Graph Data]
+[datos.bne.es](http://datos.bne.es/personas)
 
-(http://www.linkeddatatools.com/introducing-rdfs-owl)Tutorial 4: Introducing RDFS &amp; OWL]
+[esempio 1 - Camera dei deputati - dati.camera](http://dati.camera.it/it/esempi-query-sparql.html)
 
-(http://it.dbpedia.org/)[http:it.dbpedia.org]
+[foaf | prefix.cc](http://prefix.cc/foaf)
 
-(http://dati.culturaitalia.it/sparql/browse?default-graph-uri=&amp;query=select+distinct+%3FConcept+where+%7B%3Fowl+sameas+%7D+LIMIT+100&amp;exampleQueries=&amp;should-sponge=&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on)dati.culturaitalia.it]
+[http:digital-library.cdec.itcdec-web#n](http://digital-library.cdec.it/cdec-web/#n)
 
-(http://datos.bne.es/personas)[datos.bne.es]
+[http:lod.kb.nl](http://lod.kb.nl/)
 
-(http://dati.camera.it/it/esempi-query-sparql.html)[esempio 1 - Camera dei deputati - dati.camera]
+[http:www.beniculturali.it](http://www.beniculturali.it/mibac/export/MiBAC/index.html#&amp;panel1-3)
 
-(http://prefix.cc/foaf)foaf | [prefix.cc]
+[Open Data Comune di Ravenna](http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)
 
-(http://digital-library.cdec.it/cdec-web/#n)[http:digital-library.cdec.itcdec-web#n]
 
-(http://lod.kb.nl/)[http:lod.kb.nl]
-
-(http://www.beniculturali.it/mibac/export/MiBAC/index.html#&amp;panel1-3)http:www.beniculturali.itmibacexportMiBACindex.html#&amp;panel1-3]
-
-(http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)]
 
 OPEN DATA GEOGRAFICI
 
@@ -279,19 +276,41 @@ data per il territorio”, a Ravenna una summer schoo]
 (http://docplayer.it/220510-9-il-mod-l-archivio-open-data-dell-archeologia-italiana.html) Il MOD: l archivio Open Data dell archeologia italiana]
 
 VARIE
+
 [Archeosticker](http://www.archeostickers.com/)
+
 [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/)
+
 [DKAN - NuCivic](http://www.nucivic.com/dkan/)
+
 [DKAN Demo](http://demo.getdkan.com/)
+
 [DKAN | Drupal.org](https://www.drupal.org/project/dkan)
+
+[Open Data | Drupal.org](https://www.drupal.org/project/opendata)
+
+[Ravenna Site Crawler](http://sinatra.cirsfid.unibo.it/site-crawl/)
+
 [Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
+
 [MODA | Est MOD in archaeologis](http://www.modarc.org/)
+
 [Jekyll • Simple, blog-aware, static sites](https://jekyllrb.com/)
+
 [Show your support for innovative European technology businesses euronews, economy](http://www.euronews.com/2015/09/09/vote-for-eu-innovation-radar-awards)
+
+[SVN Access Manager - sinatra.cirsfid.unibo.it](http://sinatra.cirsfid.unibo.it/svn_access/login.php)
+
+[Understanding the GitHub Flow · GitHub Guides](https://guides.github.com/introduction/flow/)
+
 [Voto: Chi pensate debba vincere il nuovo premio dell’UE per l’innovazione? | euronews, economia](http://it.euronews.com/2015/09/09/voto-chi-pensate-debba-vincere-il-nuovo-premio-dell-ue-per-l-innovazione/)
+
 [Canale progetti | regesta](http://www.regesta.com/canale/progetti/)
+
 [regesta.com - New Media &amp; Cultural Heritage - Il Magazine su Archivi Digitali e Beni Culturali](http://www.regesta.com/)
+
 [http:www.riminiturismo.itrestlistevent](http://www.riminiturismo.itrestlistevent/)
+
 [Linee guida Agid](http://www.agid.gov.it/sites/default/files/linee_guida/patrimoniopubblicolg2014_v0.7finale.pdf)
 
 
