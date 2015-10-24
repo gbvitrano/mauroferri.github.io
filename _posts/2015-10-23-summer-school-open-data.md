@@ -12,6 +12,7 @@ Una settimana densa di informazioni e scoperte come questa di [Jekyll](http://je
 Pubblico la cronologia dei siti e dei servizi web che ho visitato in questi tre giorni e che ricostruisce abbastanza fedelmente le cose che sono state trattate.
 
 VISUALIZZAZIONE DEI DATI
+
 [D3.js - Data-Driven Documents](http://d3js.org/)
 
 [Data | Information is Beautiful](http://www.informationisbeautiful.net/data/)
@@ -35,54 +36,103 @@ VISUALIZZAZIONE DEI DATI
 
 LINKED OPEN DATA
 [AkomaNtoso Visualizer](http://sinatra.cirsfid.unibo.it/portale-anonimizzazione/)
+
 [Alexandre Dumas — LodView](http://lodview.it/lodview/?IRI=http%3A%2F%2Fdata.bnf.fr%2Fark%3A%2F12148%2Fcb119010630%23foaf%3APerson&amp;sparql=http%3A%2F%2Fdata.bnf.fr%2Fsparql&amp;prefix=http%3A%2F%2Fdata.bnf.fr%2F)
+
 [CDEC- Centro di Documentazione Ebraica - Digital Library](http://digital-library.cdec.it/cdec-web/)
+
 [CIRSFID - Centro Interdipartimentale di Ricerca in Storia del Diritto, Filosofia e Sociologia del Di...](http://www.cirsfid.unibo.it/)
+
 [CULTA](http://culta.cirsfid.unibo.it/)
+
 (http://dati.emilia-romagna.it/catalogodati/datiestesi.html)[Catalogo dati]
+
 (http://ibc.regione.emilia-romagna.it/servizi-online/catalogo-del-patrimonio-culturale)[Catalogo del patrimonio culturale — E-R Istituto per i beni artistici culturali e naturali]
+
 (http://dataportals.org/catalog/africa_open_data)[Data Portals]
+
 (http://dati.san.beniculturali.it/sparql)[DATI.SAN SPARQL Query Editor]
+
 (http://www.archivi.beniculturali.it/index.php/strumenti/sussidi/item/559-ontologie-archivistiche)[Direzione generale per gli archivi - Ontologie archivistiche | analisi e descrizione]
+
 (http://dati.senato.it/23)Endpoint-SPARQL - dati.senato.it]
+
 (https://it.wikipedia.org/wiki/Grafo)Grafo – Wikipedia]
+
 (http://storia.camera.it/deputati#nav)Deputati Camera dei deputati Portale storico](http://etna.istc.cnr.it/food-sparql/)[FOOD - user-friendly SPARQL interface]
+
 (http://etna.istc.cnr.it/food/)[Progetto FOOD]
+
 (http://dati.senato.it/)[Home - dati.senato.it]
+
 (http://www.linkeddatatools.com/semantic-web-basics)Introducing Linked Data And The Semantic Web]
+
 (http://ibc.regione.emilia-romagna.it/homepage)Homepage — E-R Istituto per i beni artistici culturali e naturali]
+
 (https://docs.google.com/spreadsheets/d/1A6ozupy4awmOBHbCQmemKjWOvo7yKgq5bWKuJ6T68pI/edit#gid=1)KIB - Common MythConceptions (public) - Fogli Google]
+
 (https://data.gov.uk/linked-data)Linked Data | data.gov.uk]
+
 (http://linkeddata.org/)[Linked Data | Linked Data - Connect Distributed Data across the Web]
+
 (http://dati.camera.it/it/linked-data/)[Linked-Data - Camera dei deputati - dati.camera]
+
 (http://lodlive.it/?http://datos.bne.es/persona/XX1147441.html)LodLive - browsing the Web of Data]
+
 (https://www.mongodb.com/cloud/?_ga=1.159195770.1520446389.1445345977)MongoDB Management Made Easy | MongoDB]
+
 (https://www.mongodb.org/)[MongoDB for GIANT Ideas | MongoDB]
+
 (http://www.essepuntato.it/lode/owlapi/http://etna.istc.cnr.it/food/sources/disciplinare-vino.owl)Ontologia dei Disciplinari sul vino]
+
 (http://www.aphex.it/index.php?Temi=557D03012202740321010276077327)Ontologia dei beni culturali]
+
 (http://www.archivi.beniculturali.it/ontologie/SIUSA.html)Ontologie archivistiche: descrizione ontologica del sistema SIUSA]
+
 (https://www.drupal.org/project/opendata)Open Data | Drupal.org]
+
 (http://sinatra.cirsfid.unibo.it/site-crawl/)[Ravenna Site Crawler]
+
 (http://www.essepuntato.it/)[S.'s home]
+
 (http://online.ibc.regione.emilia-romagna.it/h3/h3.exe/abiblioteche/t?CODICEISIL=IT-RN0013)SIBIB - Biblioteche pubbliche dell'Emilia-Romagna: Risultati della ricerca]
+
 (http://sinatra.cirsfid.unibo.it/svn_access/login.php)SVN Access Manager - sinatra.cirsfid.unibo.it]
+
 (http://bbcc.ibc.regione.emilia-romagna.it/samira/v2fe/)[Samira - Catalogo del patrimonio dell'Emilia-Romagna]
+
 (http://dev.data2000.no/sgvizler/)[Sgvizler development site]
+
 (http://www.w3.org/wiki/SparqlEndpoints)SparqlEndpoints - W3C Wiki]
+
 (https://guides.github.com/introduction/flow/)[Understanding the GitHub Flow · GitHub Guides]
+
 (http://lod.kb.nl/sparql)Virtuoso SPARQL Query Editor]
+
 (http://dati.camera.it/sparql)Virtuoso SPARQL Query Editor]
+
 (http://datahub.io/)[Welcome - the Datahub]
+
 (http://yasgui.org/)[YASGUI]
+
 (http://lod-cloud.net/)[The Linking Open Data cloud diagram]
+
 (http://www.linkeddatatools.com/introducing-rdf)Tutorial 1: Introducing Graph Data]
+
 (http://www.linkeddatatools.com/introducing-rdfs-owl)Tutorial 4: Introducing RDFS &amp; OWL]
+
 (http://it.dbpedia.org/)[http:it.dbpedia.org]
+
 (http://dati.culturaitalia.it/sparql/browse?default-graph-uri=&amp;query=select+distinct+%3FConcept+where+%7B%3Fowl+sameas+%7D+LIMIT+100&amp;exampleQueries=&amp;should-sponge=&amp;format=text%2Fhtml&amp;timeout=0&amp;debug=on)dati.culturaitalia.it]
-(http://datos.bne.es/personas)datos.bne.es]
-(http://dati.camera.it/it/esempi-query-sparql.html)esempio 1 - Camera dei deputati - dati.camera]
-(http://prefix.cc/foaf)foaf | prefix.cc]
-(http://digital-library.cdec.it/cdec-web/#n)http:digital-library.cdec.itcdec-web#n]
+
+(http://datos.bne.es/personas)[datos.bne.es]
+
+(http://dati.camera.it/it/esempi-query-sparql.html)[esempio 1 - Camera dei deputati - dati.camera]
+
+(http://prefix.cc/foaf)foaf | [prefix.cc]
+
+(http://digital-library.cdec.it/cdec-web/#n)[http:digital-library.cdec.itcdec-web#n]
+
 (http://lod.kb.nl/)[http:lod.kb.nl]
 (http://www.beniculturali.it/mibac/export/MiBAC/index.html#&amp;panel1-3)http:www.beniculturali.itmibacexportMiBACindex.html#&amp;panel1-3]
 (http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)]
