@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Summer (?) school sugli open data
+title: Summer school open data
 ---
 
-Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa Monica Palmiani.
+Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa Monica Palmirani.
 
 Una settimana di lezioni, presentazioni e discorsi sugli open data, tipologie, metodologie e strategie per la loro liberazione e diffusione.
 
@@ -45,13 +45,13 @@ LINKED OPEN DATA
 
 [CULTA](http://culta.cirsfid.unibo.it/)
 
-(http://dati.emilia-romagna.it/catalogodati/datiestesi.html)[Catalogo dati]
+[Catalogo dati](http://dati.emilia-romagna.it/catalogodati/datiestesi.html)
 
-(http://ibc.regione.emilia-romagna.it/servizi-online/catalogo-del-patrimonio-culturale)[Catalogo del patrimonio culturale — E-R Istituto per i beni artistici culturali e naturali]
+[Catalogo del patrimonio culturale — E-R Istituto per i beni artistici culturali e naturali](http://ibc.regione.emilia-romagna.it/servizi-online/catalogo-del-patrimonio-culturale)
 
-(http://dataportals.org/catalog/africa_open_data)[Data Portals]
+[Data Portals](http://dataportals.org/catalog/africa_open_data)
 
-(http://dati.san.beniculturali.it/sparql)[DATI.SAN SPARQL Query Editor]
+[DATI.SAN SPARQL Query Editor](http://dati.san.beniculturali.it/sparql)
 
 (http://www.archivi.beniculturali.it/index.php/strumenti/sussidi/item/559-ontologie-archivistiche)[Direzione generale per gli archivi - Ontologie archivistiche | analisi e descrizione]
 
@@ -134,80 +134,148 @@ LINKED OPEN DATA
 (http://digital-library.cdec.it/cdec-web/#n)[http:digital-library.cdec.itcdec-web#n]
 
 (http://lod.kb.nl/)[http:lod.kb.nl]
+
 (http://www.beniculturali.it/mibac/export/MiBAC/index.html#&amp;panel1-3)http:www.beniculturali.itmibacexportMiBACindex.html#&amp;panel1-3]
+
 (http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)]
 
 OPEN DATA GEOGRAFICI
+
 (http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)AREE VERDI - Comune di Ravenna al 26052015 - areeverdi-maggio2015-2015-05-26-SHP - OpenData Comune d...]
+
 (http://wiki.openstreetmap.org/wiki/Android)Android - OpenStreetMap Wiki]
+
 (http://mc.bbbike.org/)[BBBike.org tile server]
+
 (http://dati.arpa.emr.it/)[Benvenuti- CKAN-ARPA]
+
 (http://opendata.comune.ravenna.it/)[Benvenuti - OpenData Comune di Ravenna]
+
 (https://www.qgis.org/it/site/)[Benvenuto all’interno del progetto di QGIS!]
+
 (https://www.greenrocket.com/investmentchancen/bike-citizens)Bike Citizens]
+
 (https://citygram.nyc/)[Citygram - New York]
+
 (https://citymapper.com/)[Citymapper - L'app definitiva per spostarsi in città]
+
 (http://fieldpapers.org/)[Crea - Field Papers]
+
 (https://volontariprotcivrn.wordpress.com/2013/11/28/crowdmap-per-le-emergenze/)[Crowdmap per le emergenze | Gruppo Comunale Volontari Protezione Civile]
 (http://ckan.arpa.emr.it/dataset?q=SIMC)Dataset - CKAN-ARPA]
+
 (https://comuneriminiemergenze.crowdmap.com/admin/messages/index/3)Emergenze nel Comune di Rimini (beta)]
+
 (https://freegis.net/it/virtual-machine)FreeGIS]
+
 (http://www.gdal.org/)[GDAL: GDAL - Geospatial Data Abstraction Library]
+
 (http://gis.comune.ravenna.it/GeoVistaSL/)[GeoVistaSilverlight - Visore Cartografico]
+
 (https://groups.google.com/forum/?hl=en#!forum/dkan-dev)Google Groups]
+
 (http://spatialreference.org/)[Home -- Spatial Reference]
+
 (http://osm-toolserver-italia.wmflabs.org/estratti/it/)[Home Page – Estratti OSM]
+
 (http://www.hdyc.neis-one.org/?vanz)How did you contribute to OpenStreetMap ?]
+
 (https://sites.google.com/site/eospansite/installinggdalonmacosx)Installing GDAL on Mac OSX - eospansite]
+
 (http://kcmo.maps.arcgis.com/apps/Viewer/index.html?appid=aad9df66495a4cf68ef8ba2e93b18fe2)KCMO 2015 Resurfacing]
+
 (http://kcmo.gov/publicworks/street-preservation/)[KCMO.gov » Street Preservation]
+
 (https://www.data.gv.at/suche/)[Katalog | data.gv.at]
+
 (http://play.kort.ch/)[Kort]
+
 (http://learnosm.org/en/beginner/)[LearnOSM]
+
 (http://wiki.openstreetmap.org/wiki/Locus)Locus - OpenStreetMap Wiki]
+
 (http://www.locusmap.eu/)[Locu Map - mobile outdoor navigation app]
+
 (https://data.gov.uk/data/map-based-search)Map Based Search | data.gov.uk]
+
 (http://mc.bbbike.org/mc/)[Map Compare | BBBike.org]
+
 (https://www.mapbox.com/mapbox-android-sdk/)[Mapbox Android SDK | Mapbox]
+
 (https://crowdmap.com/maps/)[Maps • Crowdmap]
+
 (http://spatialreference.org/ref/epsg/4806/)[Monte Mario (Rome): EPSG Projection -- Spatial Reference]
+
 (http://www.geopackage.org/)[OGC GeoPackage]
+
 (http://osmlab.com/osm-lab.html)OSM LAB]
+
 (https://github.com/osmlab)OSM Lab · GitHub]
+
 (http://www.openstreetmap.org/)[OpenStreetMap]
+
 (http://wiki.openstreetmap.org/wiki/Main_Page)OpenStreetMap Wiki]
+
 (http://www.openstreetmap.org/node/1192552413)OpenStreetMap| Nodo: ‪Ravenna Autostazione - P.Le A. Moro‬ (‪1192552413‬)]
+
 (http://www.openstreetmap.org/relation/42791)OpenStreetMap | Relazione: ‪Rimini‬ (‪42791‬)]
+
 (http://wiki.openstreetmap.org/wiki/Overpass_API)Overpass API - OpenStreetMap Wiki]
+
 (http://resultmaps.neis-one.org/oooc)Overview of OpenStreetMap Contributors @ ResultMaps.neis-one.org]
+
 (https://lists.okfn.org/mailman/listinfo/okfn-it)Pagina di informazioni della lista okfn-it]
+
 (http://www.kyngchaos.com/software/qgis)[KyngChaos Wiki]]
+
 (http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/)[TUTORIAL: creare una mappa online con fotografie in uMap aggiornabile con EtherCalc ← de.straba.us]
+
 (http://www.kyngchaos.com/software/frameworks)Unix Compatibility Frameworks [KyngChaos Wiki]]
+
 (http://spatialreference.org/ref/epsg/4326/)[WGS84: EPSG Projection -- Spatial Reference]
+
 (http://de.straba.us/)[de.straba.us ← destrabauz thoughts]
+
 (http://de.straba.us/?s=ethercalc&amp;submit=search)ethercalc ← Risultati della ricerca ← de.straba.us]
+
 (http://overpass-turbo.eu/#)http:overpass-turbo.eu#]
+
 (http://resultmaps.neis-one.org/)[http:resultmaps.neis-one.org]
+
 (http://www.bikecitizens.net/)[http:www.bikecitizens.net]
+
 (https://josm.openstreetmap.de/)[https:josm.openstreetmap.de]
+
 (https://umap.openstreetmap.fr/it/map/new/#12/44.0645/12.5701)https:umap.openstreetmap.fritmapnew#1244.064512.5701]
 (http://www.opendatabassaromagna.it/)[opendatabassaromagna]
+
 (http://content.stamen.com/)[stamen design | the next most obvious thing]
+
 (https://umap.openstreetmap.fr/it/map/mappa-senza-titolo_57270#12/44.0739/12.5718)Mappa
 senza titolo - uMap]
+
 (http://ontologydesignpatterns.org/wiki/Main_Page)Ontology Design Patterns . org (ODP) - Odp]
+
 (http://www.openpompei.it/)[OpenPompei | Cultura della trasparenza e economia hacker nell'area campana]
+
 (http://www.openstreetmap.org/oauth/authorize?redirect_uri=https%3A%2F%2Fumap.openstreetmap.fr%2Fcomplete%2Fopenstreetmap%2F&amp;oauth_token=8pviFMQ5znVPkkmMMFvUx4UEnr5cypIMrjtC487M)OpenStreetMap]
+
 (http://overpass-api.de/query_form.html)Overpass API Query Form]
+
 (http://ckan.arpa.emr.it/dataset/qualita-dell-aria-rete-di-monitoraggio)Qualità dell'Aria - Dati di monitoraggio - Dataset - CKAN-ARPA]
 (https://umap.openstreetmap.fr/it/map/mappa-senza-titolo_57270#16/44.0745/12.5743)https:umap.openstreetmap.fritmapmappa-senza-titolo_57270#1644.074512.5743]
+
 (http://prefix.cc/)[namespace lookup for RDF developers | prefix.cc]
+
 (http://opensensorsdata.it/)[opensensorsdata]
+
 (http://overpass-turbo.eu/?Q=%0A%5Bout%3Axml%5D%5Btimeout%3A25%5D%3B%0A%7B%7BgeocodeArea%3ATrentino%7D%7D-%3E.searchArea%3B%0A(%20node%5B%22amenity%22%3D%22drinking_water%22%5D(area.searchArea)%3B%0A)%3B%0Aout%20body%3B%0A%3E%3B%0Aout%20skel%20qt%3B&amp;C=46.09763;11.22334;10&amp;R)overpass turbo]
+
 (https://umap.openstreetmap.fr/it/user/MauroFerri/)[uMap]
+
 (http://dati.emilia-romagna.it/novita/35-novita-del-portale/480-open-data-per-il-territorio-a-ravenna-una-summer-school.html)“Open
 data per il territorio”, a Ravenna una summer schoo]
+
 (http://docplayer.it/220510-9-il-mod-l-archivio-open-data-dell-archeologia-italiana.html) Il MOD: l archivio Open Data dell archeologia italiana]
 
 VARIE
