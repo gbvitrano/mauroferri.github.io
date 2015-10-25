@@ -4,7 +4,7 @@ title: Summer school open data
 ---
 ![Intervento di Diego Valerio Camarda alla Summer School]({{ site.url }}/public/corso-ravenna-diego.png)
 
-Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa [Monica Palmirani](https://twitter.com/MonicaPalmirani).
+Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla professoressa [Monica Palmirani](https://twitter.com/MonicaPalmirani).
 
 Una settimana di lezioni, presentazioni e discorsi sugli open data, tipologie, metodologie e strategie per la loro liberazione e diffusione.
 
@@ -80,7 +80,7 @@ Pubblico la cronologia dei siti e dei servizi web che ho visitato in questi tre 
 
 
 
-# DATA GEOGRAFICI
+# OPEN DATA GEOGRAFICI
 
 * [AREE VERDI - Comune di Ravenna al 26052015 - areeverdi-maggio2015-2015-05-26-SHP](http://opendata.comune.ravenna.it/dataset/areeverdi-maggio2015-2015-05-26/resource/eb103a2f-e3cb-4b99-89f0-3f8d4576b1ca)
 * [Android - OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/Android)
