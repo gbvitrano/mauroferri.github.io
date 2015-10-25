@@ -2,7 +2,7 @@
 layout: post
 title: Summer school open data
 ---
-![Intervento di Diego Carda alla Summer School]({{ site.url }}/public/corso-ravenna-diego.jpg)
+![Intervento di Diego Valerio Camarda alla Summer School]({{ site.url }}/public/corso-ravenna-diego.png)
 
 Dal 19 al 23 ottobre, la Scuola di Giurisprudenza di Ravenna ha ospitato la summer school “Open Data per il Territorio: Cultura, Turismo, Ambiente” progettata e realizzata dalla ottima professoressa [Monica Palmirani](https://twitter.com/MonicaPalmirani).
 
