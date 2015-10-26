@@ -4,17 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi! 
+  I'm an italian aged enthusiast of social coding. Despite I'm not a professional programmer I like programming so much.
+  I'm a web content manager at the municipality site of my town. 
+  I like to travel, and in the past years I travel in some of the main European capitals. 
+  I like very much movies, I live in the town of Federico Fellini one of the greater director of the world. Fellini describe the deeper spirit of my town in his masterpiece Amarcord so watch this movie, if you just didn't it before, to better understand my country.
+  I like also eat well, my country, Romagna, is known for the 'piadina' a flat bread that we fill with jam or case and many other good stuff...
+  I believe in mankind, I believe in brotherhood even if the World seems to go to the another part, I believe that the answer is not in the wind but inside each one of us. We can choose and operate every day for peace and love even if we are in struggle or grief.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Profiles
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [Facebook](https://www.facebook.com/mferri1960)
+* [Twitter](http://www.twitter/mauroferri)
+* [Linkedin](https://it.linkedin.com/in/mauroferri60)
+* [GitHub](https://github.com/mauroferri).
 
 ## Setup
 
